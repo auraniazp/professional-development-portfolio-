@@ -1,42 +1,21 @@
 
-<!-- PROFILE README - AURANIA ZHAFIRAH PRANATA -->
-
-<div align="center">
-
-# ✨ Aurania Zhafirah Pranata
+# Aurania Zhafirah Pranata
 
 ### Computer Science Student | Graphics & Multimedia Software
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Exploring+Graphics+%26+Multimedia;Learning+and+Growing+Every+Day" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=auraniazp&color=36BCF7&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/auraniazp?style=flat-square&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/auraniazp?style=flat-square&color=yellow)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Graphics+%26+Multimedia+Software;Learning+and+Building+Every+Day" alt="Typing SVG" />
+</p>
 
 ---
 
-## 👋 About Me
+## About Me
 
-Hello! I'm **Aurania Zhafirah Pranata**, a first-year Bachelor of Computer Science student at **Universiti Teknologi Malaysia (UTM)**.
+Hello! I'm **Aurania Zhafirah Pranata**, a first-year Bachelor of Computer Science student at **Universiti Teknologi Malaysia (UTM)**, specializing in Graphics and Multimedia Software.
 
-My specialization is **Graphics and Multimedia Software**.
+I'm interested in technology, software development, computer graphics, and multimedia. I'm currently building my knowledge and developing my skills throughout my university journey.
 
-I'm currently beginning my journey in computer science, exploring technology, programming, graphics, and multimedia.
-
-### 🌱 A Little About Me
-
-- 🎓 First-year Computer Science student at UTM.
-- 💻 Specializing in Graphics and Multimedia Software.
-- 🎨 Interested in graphics and multimedia technology.
-- 🚀 Excited to develop creative digital solutions.
-- 📚 Always willing to learn new things.
-- ✨ Growing my knowledge one step at a time.
-
----
-
-## 🎓 Education
+## Education
 
 **Universiti Teknologi Malaysia (UTM)**
 
@@ -45,83 +24,49 @@ I'm currently beginning my journey in computer science, exploring technology, pr
 - Academic Level: First Year
 - Status: Currently Studying
 
----
+## Technical Skills
 
-## 🛠️ Technical Skills
+Currently developing my technical knowledge and programming skills.
 
-I'm currently developing my technical knowledge and programming skills through my university studies.
+*This section will be updated as I gain experience with different technologies.*
 
-*My technology stack will be updated as I gain experience.*
+## Areas of Interest
 
----
+- Computer Graphics
+- Multimedia Software Development
+- Game Development
+- Interactive Applications
+- 3D Modeling and Visualization
 
-## 🔬 Interests
+## Projects
 
-Here are some areas I'm interested in exploring:
+I'm looking forward to developing and sharing my academic and personal projects here.
 
-- 🎨 Computer Graphics
-- 🎮 Game Development
-- 🖥️ Multimedia Software
-- 🌐 Interactive Applications
-- 🧊 3D Modeling and Visualization
-- 💡 Creative Technology
+*Projects coming soon.*
 
----
+## GitHub Statistics
 
-## 💻 Projects
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=auraniazp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auraniazp&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
-I'm currently building my knowledge and look forward to sharing my academic and personal projects here.
+## Goals
 
-**Coming soon!** 🚀
+- Strengthen my computer science fundamentals.
+- Improve my programming skills.
+- Explore graphics and multimedia technologies.
+- Develop creative software projects.
+- Gain experience through practical learning.
 
----
+## Contact
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=auraniazp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auraniazp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=auraniazp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+- GitHub: [@auraniazp](https://github.com/auraniazp)
+- University: [Universiti Teknologi Malaysia](https://www.utm.my/)
 
 ---
 
-## 🎯 My Goals
+<p align="center">
+  <i>Learning, creating, and growing one step at a time.</i>
+</p>
 
-- 📚 Strengthen my computer science fundamentals.
-- 💻 Improve my programming abilities.
-- 🎨 Explore graphics and multimedia development.
-- 🎮 Learn about game development.
-- 🚀 Build interesting software projects.
-- 🌍 Explore open-source contributions.
-- 🧠 Continue learning and growing as a developer.
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/auraniazp">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<a href="https://www.utm.my/">
-<img src="https://img.shields.io/badge/University-UTM-0066CC?style=for-the-badge&logo=google-scholar&logoColor=white" alt="UTM" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-*"Dream big, stay curious, and keep learning."*
-
-</div>
